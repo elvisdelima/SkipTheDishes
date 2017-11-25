@@ -30,7 +30,8 @@ namespace SkipTheDishes
              var connectionString = Configuration["DbContextSettings:ConnectionString"];
                 services.AddDbContext<ApplicationDbContext>(
                     opts => opts.UseNpgsql(connectionString)
-    );
+
+            );
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
