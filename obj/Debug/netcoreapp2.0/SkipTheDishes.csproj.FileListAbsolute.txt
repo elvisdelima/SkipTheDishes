@@ -1,0 +1,10 @@
+/Users/elvislima/Projects/VanHackathon/SkipTheDishes/bin/Debug/netcoreapp2.0/SkipTheDishes.deps.json
+/Users/elvislima/Projects/VanHackathon/SkipTheDishes/bin/Debug/netcoreapp2.0/SkipTheDishes.runtimeconfig.json
+/Users/elvislima/Projects/VanHackathon/SkipTheDishes/bin/Debug/netcoreapp2.0/SkipTheDishes.runtimeconfig.dev.json
+/Users/elvislima/Projects/VanHackathon/SkipTheDishes/bin/Debug/netcoreapp2.0/SkipTheDishes.dll
+/Users/elvislima/Projects/VanHackathon/SkipTheDishes/bin/Debug/netcoreapp2.0/SkipTheDishes.pdb
+/Users/elvislima/Projects/VanHackathon/SkipTheDishes/obj/Debug/netcoreapp2.0/SkipTheDishes.csproj.CoreCompileInputs.cache
+/Users/elvislima/Projects/VanHackathon/SkipTheDishes/obj/Debug/netcoreapp2.0/SkipTheDishes.AssemblyInfoInputs.cache
+/Users/elvislima/Projects/VanHackathon/SkipTheDishes/obj/Debug/netcoreapp2.0/SkipTheDishes.AssemblyInfo.cs
+/Users/elvislima/Projects/VanHackathon/SkipTheDishes/obj/Debug/netcoreapp2.0/SkipTheDishes.dll
+/Users/elvislima/Projects/VanHackathon/SkipTheDishes/obj/Debug/netcoreapp2.0/SkipTheDishes.pdb
