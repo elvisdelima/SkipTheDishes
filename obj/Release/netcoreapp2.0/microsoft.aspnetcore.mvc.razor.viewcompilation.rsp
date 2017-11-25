@@ -1,0 +1,5 @@
+/Users/elvislima/Projects/VanHackathon/SkipTheDishes
+--output-path=obj/Release/netcoreapp2.0/
+--application-name=SkipTheDishes
+--content-root=/Users/elvislima/Projects/VanHackathon/SkipTheDishes
+--file=
